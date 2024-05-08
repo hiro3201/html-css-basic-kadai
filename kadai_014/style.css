@@ -1,3 +1,6 @@
+html {
+    font-size: 20px;
+}
 .skyblue {
     color: skyblue;
 }
@@ -7,7 +10,6 @@
 #parent {
     text-align: center;
     font-family: "arial","meiryo",sens-serif;
-    font-size: 20px;
 }
 #parent > p {
     font-weight: bold;
@@ -18,7 +20,7 @@
     font-weight: weight;
     font-style: normal;
     border-bottom: solid 3px rgb(115,115,115);
-    font-size: 200%;
+    font-size: 2em;
     letter-spacing: 1.2em;
     text-shadow: 1px 1px 2px red ;
 }
